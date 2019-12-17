@@ -13,9 +13,6 @@ def line(array)
   end
 end  
 
-
-
-
 # def line(array)
 #   line_string = "The line is currently:"
   
